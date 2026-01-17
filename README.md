@@ -1,4 +1,4 @@
-# awesome-fresh 😎
+# awesome-fresh
 A curated list of **Fresh Editor** plugins, themes, keymaps, configs, and community resources.
 
 > Fresh is a terminal-based text editor focused on a familiar, VS Code-ish workflow, with **TypeScript plugins running in a sandboxed Deno environment**.
@@ -6,16 +6,23 @@ A curated list of **Fresh Editor** plugins, themes, keymaps, configs, and commun
 ---
 
 ## Contents
-- [Official](#official)
-- [Plugins](#plugins)
-- [Themes](#themes)
-- [Keymaps](#keymaps)
-- [Configs](#configs)
-- [Packaging & Install Options](#packaging--install-options)
-- [Community](#community)
-- [Articles & Videos](#articles--videos)
-- [Contributing](#contributing)
-- [License](#license)
+- [awesome-fresh](#awesome-fresh)
+  - [Contents](#contents)
+  - [Official](#official)
+  - [Plugins](#plugins)
+    - [Built-in (ships with Fresh)](#built-in-ships-with-fresh)
+    - [Third-party](#third-party)
+  - [Themes](#themes)
+    - [Third-party themes](#third-party-themes)
+    - [Built-in themes + Theme tooling](#built-in-themes--theme-tooling)
+  - [Keymaps](#keymaps)
+  - [Configs](#configs)
+  - [Packaging \& Install Options](#packaging--install-options)
+  - [Community](#community)
+  - [Articles \& Videos](#articles--videos)
+  - [Contributing](#contributing)
+    - [Submission format](#submission-format)
+  - [License](#license)
 
 ---
 
@@ -117,5 +124,5 @@ Add your link under the right section using this format:
 ---
 
 ## License
-This list is provided under the CC0 / public-domain spirit unless otherwise stated.  
+This list is provided under the MIT License.  
 Fresh itself is GPL-2.0 licensed.
