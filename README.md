@@ -1,7 +1,7 @@
 # awesome-fresh 😎
 A curated list of **Fresh Editor** plugins, themes, keymaps, configs, and community resources.
 
-> Fresh is a terminal-based text editor focused on a familiar, VS Code-ish workflow, with **TypeScript plugins running in a sandboxed Deno environment**.  [oai_citation:1‡GitHub](https://github.com/sinelaw/fresh)
+> Fresh is a terminal-based text editor focused on a familiar, VS Code-ish workflow, with **TypeScript plugins running in a sandboxed Deno environment**.
 
 ---
 
