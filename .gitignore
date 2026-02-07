@@ -1,0 +1,41 @@
+# =========================
+# macOS system files
+# =========================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.Trashes/*
+.fseventsd
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# =========================
+# macOS Finder / metadata
+# =========================
+
+.AppleDouble
+.LSOverride
+Icon?
+
+# =========================
+# macOS network / share files
+# =========================
+
+.Network Trash Folder
+.TemporaryItems
+.apdisk
+
+# =========================
+# iCloud / Apple junk
+# =========================
+
+*.icloud
+
+# =========================
+# macOS extended attributes
+# =========================
+
+__MACOSX/
