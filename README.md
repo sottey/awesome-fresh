@@ -16,6 +16,7 @@ A curated list of **Fresh Editor** plugins, themes, keymaps, configs, and commun
     - [Third-party themes](#third-party-themes)
     - [Built-in themes + Theme tooling](#built-in-themes--theme-tooling)
   - [Keymaps](#keymaps)
+  - [Languages](#languages)
   - [Configs](#configs)
   - [Packaging \& Install Options](#packaging--install-options)
   - [Community](#community)
@@ -68,6 +69,16 @@ Fresh also has a **Theme Editor** with schema + UI features (see release notes).
 ## Keymaps
 Fresh includes a `keymaps/` directory in the main repo.
 Release notes frequently mention keymap improvements (especially around terminal-friendly macOS bindings).
+
+---
+
+## Languages
+Language packs and bundles for Fresh Editor.
+
+- _(None widely-established yet — ecosystem is young)_  
+  If you’ve published one, open a PR and we’ll list it.
+
+> Contribute language packs under `languages/`.
 
 ---
 
