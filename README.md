@@ -59,6 +59,8 @@ Fresh includes a growing set of built-in plugins (and plugin-related features li
 ### Third-party themes
 - **Catppuccin for Fresh** — Latte / Frappé / Macchiato / Mocha  
   https://github.com/milon/catppuccin-fresh
+- **Fresh Monokai** — Monokai-inspired dark theme with full editor, UI, syntax, and diagnostic coverage  
+  https://github.com/Zetaphor/fresh-monokai-theme
 
 ### Built-in themes + Theme tooling
 Fresh includes a `themes/` directory in the main repo.
