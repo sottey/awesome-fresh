@@ -28,10 +28,8 @@ A curated list of **Fresh Editor** plugins, themes, keymaps, configs, and commun
 ---
 
 ## Official
-- **Fresh Editor (main repo)** — source, docs, built-in plugins/themes/keymaps, release notes  
-  https://github.com/sinelaw/fresh
-- **Official website**  
-  https://sinelaw.github.io/fresh/
+- **[Fresh Editor (main repo)](https://github.com/sinelaw/fresh)** — source, docs, built-in plugins/themes/keymaps, release notes
+- **[Official website](https://sinelaw.github.io/fresh/)**
 - **Built-in ecosystem directories (in the main repo)**  
   Fresh ships with `plugins/`, `themes/`, and `keymaps/` directories in-tree.
 
@@ -43,23 +41,16 @@ A curated list of **Fresh Editor** plugins, themes, keymaps, configs, and commun
 ### Built-in (ships with Fresh)
 Fresh includes a growing set of built-in plugins (and plugin-related features like TODO highlighting, merge conflict helpers, path completion, etc.).
 
-- Built-in plugins (browse the repo):  
-  https://github.com/sinelaw/fresh
+- [Built-in plugins](https://github.com/sinelaw/fresh) (browse the repo)
 
 ### Third-party
 > If you know of more third-party plugins, please PR them in!
-- **Herdr Plugin** - A herdr plugin that runs Fresh, the terminal IDE, as a file viewer and editor inside a herdr pane.
-  https://github.com/rvalledorjr/herdr-fresh
-- **Copilt Plugin** - GitHub Copilot plugin for the Fresh terminal based IDE & text editor.
-  https://github.com/Hezkore/fresh-copilot
-- **UnRAID Plugin** - An Unraid plugin that installs Fresh, a modern, full-featured terminal text editor with familiar keybindings, mouse support, and IDE-level features.
-  https://github.com/johnngone/fresh-editor-unraid
-- **WakaTime plugin** - Automatic time tracking for your coding activity in the Fresh editor.
-  https://github.com/Jelloeater/fresh-plugin-wakatime
-- **Unibeautify for Fresh** - Format the active buffer (or just the selection) with the right formatter for each language.
-  https://github.com/hofftodd/fresh-plugins/tree/main/unibeautify
-- **Fresh Codespell** - Code-aware spell checking for the Fresh terminal editor, powered by the CSpell command-line tool.
-  https://github.com/thedadams/fresh-codespell
+- **[Herdr Plugin](https://github.com/rvalledorjr/herdr-fresh)** - A herdr plugin that runs Fresh, the terminal IDE, as a file viewer and editor inside a herdr pane.
+- **[Copilt Plugin](https://github.com/Hezkore/fresh-copilot)** - GitHub Copilot plugin for the Fresh terminal based IDE & text editor.
+- **[UnRAID Plugin](https://github.com/johnngone/fresh-editor-unraid)** - An Unraid plugin that installs Fresh, a modern, full-featured terminal text editor with familiar keybindings, mouse support, and IDE-level features.
+- **[WakaTime plugin](https://github.com/Jelloeater/fresh-plugin-wakatime)** - Automatic time tracking for your coding activity in the Fresh editor.
+- **[Unibeautify for Fresh](https://github.com/hofftodd/fresh-plugins/tree/main/unibeautify)** - Format the active buffer (or just the selection) with the right formatter for each language.
+- **[Fresh Codespell](https://github.com/thedadams/fresh-codespell)** - Code-aware spell checking for the Fresh terminal editor, powered by the CSpell command-line tool.
 
 
 ---
@@ -71,20 +62,13 @@ Fresh includes a `themes/` directory in the main repo.
 Fresh also has a **Theme Editor** with schema + UI features (see release notes).
 
 ### Third-party themes
-- **Catppuccin for Fresh** — Latte / Frappé / Macchiato / Mocha  
-  https://github.com/milon/catppuccin-fresh
-- **Fresh Monokai** — Monokai-inspired dark theme with full editor, UI, syntax, and diagnostic coverage  
-  https://github.com/Zetaphor/fresh-monokai-theme
-- **XScriptor Themes** - Custom color themes for Fresh, the terminal text editor. This repository contains multiple JSON theme files compatible with Fresh.
-  https://github.com/xscriptor-colors/fresh
-- **Light Table Theme** - A Light Table IDE theme based on the Borealis theme and the Cheer up emo kid colorscheme.
-  https://github.com/clojens/cheerup-lighttable-theme
-- **Fresh Rose Theme** - A dark pink theme for the Fresh editor, featuring bright, saturated colors.
-  https://github.com/Y8ungS8ul/fresh-rose-themes
-- **Bluloco Theme** - A collection of Bluloco color scheme themes for Fresh Editor, featuring both dark and light theme.
-  https://github.com/Nandaleio/bluloco-fresh
-- **Vesper Theme** -  A modern and clean color theme for Fresh (terminal text editor)
-  https://github.com/h1st0ry3D/fresh-vesper-theme
+- **[Catppuccin for Fresh](https://github.com/milon/catppuccin-fresh)** — Latte / Frappé / Macchiato / Mocha  
+- **[Fresh Monokai](https://github.com/Zetaphor/fresh-monokai-theme)** — Monokai-inspired dark theme with full editor, UI, syntax, and diagnostic coverage
+- **[XScriptor Themes](https://github.com/xscriptor-colors/fresh)** - Custom color themes for Fresh, the terminal text editor. This repository contains multiple JSON theme files compatible with Fresh.
+- **[Light Table Theme](https://github.com/clojens/cheerup-lighttable-theme)** - A Light Table IDE theme based on the Borealis theme and the Cheer up emo kid colorscheme.
+- **[Fresh Rose Theme](https://github.com/Y8ungS8ul/fresh-rose-themes)** - A dark pink theme for the Fresh editor, featuring bright, saturated colors.
+- **[Bluloco Theme](https://github.com/Nandaleio/bluloco-fresh)** - A collection of Bluloco color scheme themes for Fresh Editor, featuring both dark and light theme.
+- **[Vesper Theme](https://github.com/h1st0ry3D/fresh-vesper-theme)** -  A modern and clean color theme for Fresh (terminal text editor)
   
 
 ---
@@ -108,8 +92,7 @@ Language packs and bundles for Fresh Editor.
 ## Configs
 Fresh ships an example config in the main repo (`config.example.json`).
 
-- Example config (in repo):  
-  https://github.com/sinelaw/fresh
+- **[Example config (in repo)](https://github.com/sinelaw/fresh)**
 
 > If you have a “great default” config (LSP presets, UI layout, sensible keybinding tweaks, etc.), PR it here under a `configs/` folder.
 
@@ -118,26 +101,21 @@ Fresh ships an example config in the main repo (`config.example.json`).
 ## Packaging & Install Options
 Fresh supports multiple install methods (brew, AUR, Debian/Ubuntu packages, rpm, AppImage, Flatpak, npm/npx, cargo-binstall, crates.io, nix).
 
-- Arch Linux AUR package page:  
-  https://aur.archlinux.org/packages/fresh-editor
+- [Arch Linux AUR package page]((https://aur.archlinux.org/packages/fresh-editor))
 
 ---
 
 ## Community
-- **GitHub Discussions (Fresh)**  
-  https://github.com/sinelaw/fresh/discussions
-- **GitHub Issues (Fresh)**  
-  https://github.com/sinelaw/fresh/issues
-- **Show HN thread (early discussion + context)**  
-  https://news.ycombinator.com/item?id=46135067
+- **[GitHub Discussions (Fresh)](https://github.com/sinelaw/fresh/discussions)**  
+- **[GitHub Issues (Fresh)](https://github.com/sinelaw/fresh/issues)**
+- **[Show HN thread (early discussion + context)](https://news.ycombinator.com/item?id=46135067)**
 
 ---
 
 ## Articles & Videos
 > These are useful for onboarding, feature discovery, and spreading the word.
 
-- “Fresh: The Terminal Editor that Opens 2GB Logs…” (Medium)  
-  https://medium.com/@trivajay259/fresh-the-terminal-editor-that-opens-2gb-logs-in-600ms-with-40mb-ram-6522c7d7bd64
+- **[“Fresh: The Terminal Editor that Opens 2GB Logs…” (Medium)](https://medium.com/@trivajay259/fresh-the-terminal-editor-that-opens-2gb-logs-in-600ms-with-40mb-ram-6522c7d7bd64)**
 
 ---
 
