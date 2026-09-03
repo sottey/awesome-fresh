@@ -48,7 +48,7 @@ Fresh includes a growing set of built-in plugins (and plugin-related features li
 
 ### Third-party
 > If you know of more third-party plugins, please PR them in!
-- ** Herdr Plugin** - A herdr plugin that runs Fresh, the terminal IDE, as a file viewer and editor inside a herdr pane.
+- **Herdr Plugin** - A herdr plugin that runs Fresh, the terminal IDE, as a file viewer and editor inside a herdr pane.
   https://github.com/rvalledorjr/herdr-fresh
 - **Copilt Plugin** - GitHub Copilot plugin for the Fresh terminal based IDE & text editor.
   https://github.com/Hezkore/fresh-copilot
