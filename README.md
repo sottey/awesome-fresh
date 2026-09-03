@@ -46,11 +46,20 @@ Fresh includes a growing set of built-in plugins (and plugin-related features li
 ### Third-party
 > If you know of more third-party plugins, please PR them in!
 - **[Herdr Plugin](https://github.com/rvalledorjr/herdr-fresh)** - A herdr plugin that runs Fresh, the terminal IDE, as a file viewer and editor inside a herdr pane.
-- **[Copilt Plugin](https://github.com/Hezkore/fresh-copilot)** - GitHub Copilot plugin for the Fresh terminal based IDE & text editor.
+- **[Copilot Plugin](https://github.com/Hezkore/fresh-copilot)** - GitHub Copilot plugin for the Fresh terminal based IDE & text editor.
 - **[UnRAID Plugin](https://github.com/johnngone/fresh-editor-unraid)** - An Unraid plugin that installs Fresh, a modern, full-featured terminal text editor with familiar keybindings, mouse support, and IDE-level features.
 - **[WakaTime plugin](https://github.com/Jelloeater/fresh-plugin-wakatime)** - Automatic time tracking for your coding activity in the Fresh editor.
 - **[Unibeautify for Fresh](https://github.com/hofftodd/fresh-plugins/tree/main/unibeautify)** - Format the active buffer (or just the selection) with the right formatter for each language.
 - **[Fresh Codespell](https://github.com/thedadams/fresh-codespell)** - Code-aware spell checking for the Fresh terminal editor, powered by the CSpell command-line tool.
+- **[Fresh Simple Runner](https://github.com/zongou/fresh-simple-runner)** - Fresh editor simple-runner extension
+- **[Fresh Claude Plugin](https://github.com/mruff-aeq/fresh-claude)** - Claude Code IDE layout for fresh terminal editor. One command, full cockpit
+- **[Fresh Markdown Previewer](https://github.com/sunnypdater/fresh-md-pretty)** - A Fresh terminal editor plugin that renders .md files as a beautiful, color-highlighted preview panel — automatically on open, with live re-render as you type.
+
+---
+
+## Companion Stuff
+> Things that are not plugins, but have to do with the Fresh editor
+> - **[Fresh Web GUI](https://github.com/amirhosseindavoody/fresh-gui)** - Self hosted web GUI using Fresh as it's editor
 
 
 ---
