@@ -56,20 +56,37 @@ Fresh includes a growing set of built-in plugins (and plugin-related features li
   https://github.com/johnngone/fresh-editor-unraid
 - **WakaTime plugin** - Automatic time tracking for your coding activity in the Fresh editor.
   https://github.com/Jelloeater/fresh-plugin-wakatime
+- **Unibeautify for Fresh** - Format the active buffer (or just the selection) with the right formatter for each language.
+  https://github.com/hofftodd/fresh-plugins/tree/main/unibeautify
+- **Fresh Codespell** - Code-aware spell checking for the Fresh terminal editor, powered by the CSpell command-line tool.
+  https://github.com/thedadams/fresh-codespell
+
 
 ---
 
 ## Themes
+
+### Built-in themes + Theme tooling
+Fresh includes a `themes/` directory in the main repo.
+Fresh also has a **Theme Editor** with schema + UI features (see release notes).
 
 ### Third-party themes
 - **Catppuccin for Fresh** — Latte / Frappé / Macchiato / Mocha  
   https://github.com/milon/catppuccin-fresh
 - **Fresh Monokai** — Monokai-inspired dark theme with full editor, UI, syntax, and diagnostic coverage  
   https://github.com/Zetaphor/fresh-monokai-theme
-
-### Built-in themes + Theme tooling
-Fresh includes a `themes/` directory in the main repo.
-Fresh also has a **Theme Editor** with schema + UI features (see release notes).
+- **XScriptor Themes** - Custom color themes for Fresh, the terminal text editor. This repository contains multiple JSON theme files compatible with Fresh.
+  https://github.com/xscriptor-colors/fresh
+- **Light Table Theme** - A Light Table IDE theme based on the Borealis theme and the Cheer up emo kid colorscheme.
+  https://github.com/clojens/cheerup-lighttable-theme
+- **Fresh Rose Theme** - A dark pink theme for the Fresh editor, featuring bright, saturated colors.
+  https://github.com/Y8ungS8ul/fresh-rose-themes
+- **Bluloco Theme** - A collection of Bluloco color scheme themes for Fresh Editor, featuring both dark and light theme.
+  https://github.com/Nandaleio/bluloco-fresh
+- **Vesper Theme** -  A modern and clean color theme for Fresh (terminal text editor)
+  https://github.com/h1st0ry3D/fresh-vesper-theme
+- **** - 
+  
 
 ---
 
