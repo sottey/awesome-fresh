@@ -48,9 +48,14 @@ Fresh includes a growing set of built-in plugins (and plugin-related features li
 
 ### Third-party
 > If you know of more third-party plugins, please PR them in!
-
-- _(None widely-established yet — ecosystem is young)_  
-  If you’ve published one, open a PR and we’ll list it.
+- ** Herdr Plugin** - A herdr plugin that runs Fresh, the terminal IDE, as a file viewer and editor inside a herdr pane.
+  https://github.com/rvalledorjr/herdr-fresh
+- **Copilt Plugin** - GitHub Copilot plugin for the Fresh terminal based IDE & text editor.
+  https://github.com/Hezkore/fresh-copilot
+- **UnRAID Plugin** - An Unraid plugin that installs Fresh, a modern, full-featured terminal text editor with familiar keybindings, mouse support, and IDE-level features.
+  https://github.com/johnngone/fresh-editor-unraid
+- **WakaTime plugin** - Automatic time tracking for your coding activity in the Fresh editor.
+  https://github.com/Jelloeater/fresh-plugin-wakatime
 
 ---
 
