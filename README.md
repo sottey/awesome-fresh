@@ -59,7 +59,7 @@ Fresh includes a growing set of built-in plugins (and plugin-related features li
 
 ## Companion Stuff
 > Things that are not plugins, but have to do with the Fresh editor
-> - **[Fresh Web GUI](https://github.com/amirhosseindavoody/fresh-gui)** - Self hosted web GUI using Fresh as it's editor
+- **[Fresh Web GUI](https://github.com/amirhosseindavoody/fresh-gui)** - Self hosted web GUI using Fresh as it's editor
 
 
 ---
