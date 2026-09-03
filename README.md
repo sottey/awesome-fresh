@@ -85,7 +85,6 @@ Fresh also has a **Theme Editor** with schema + UI features (see release notes).
   https://github.com/Nandaleio/bluloco-fresh
 - **Vesper Theme** -  A modern and clean color theme for Fresh (terminal text editor)
   https://github.com/h1st0ry3D/fresh-vesper-theme
-- **** - 
   
 
 ---
