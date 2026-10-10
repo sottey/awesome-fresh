@@ -54,7 +54,15 @@ Fresh includes a growing set of built-in plugins (and plugin-related features li
 - **[Fresh Simple Runner](https://github.com/zongou/fresh-simple-runner)** - Fresh editor simple-runner extension
 - **[Fresh Claude Plugin](https://github.com/mruff-aeq/fresh-claude)** - Claude Code IDE layout for fresh terminal editor. One command, full cockpit
 - **[Fresh Markdown Previewer](https://github.com/sunnypdater/fresh-md-pretty)** - A Fresh terminal editor plugin that renders .md files as a beautiful, color-highlighted preview panel — automatically on open, with live re-render as you type.
+- **[Fresh Plugins](https://github.com/hofftodd/fresh-plugins<img width="432" height="17" alt="image" src="https://github.com/user-attachments/assets/b41d91af-e21a-432d-87da-23820352bdb0" />
+)** - Plugins for the Fresh editor‚ currently a multi-language formatter (Unibeautify)<img width="607" height="17" alt="image" src="https://github.com/user-attachments/assets/9ba03348-89ea-4455-9fc9-8f60d70dc314" />
 
+- **[]()** -
+- **[]()** - 
+- **[]()** - 
+- **[]()** - 
+- **[]()** - 
+- **[]()** - 
 ---
 
 ## Companion Stuff
@@ -102,6 +110,8 @@ Language packs and bundles for Fresh Editor.
 Fresh ships an example config in the main repo (`config.example.json`).
 
 - **[Example config (in repo)](https://github.com/sinelaw/fresh)**
+- - **[Example config (in repo)](https://github.com/juanesgl/fresh-dots)<img width="432" height="17" alt="image" src="https://github.com/user-attachments/assets/5c16c1a3-c35f-417e-860c-99caa775bac1" />
+**
 
 > If you have a “great default” config (LSP presets, UI layout, sensible keybinding tweaks, etc.), PR it here under a `configs/` folder.
 
