@@ -15,6 +15,7 @@ A curated list of **Fresh Editor** plugins, themes, keymaps, configs, and commun
   - [Themes](#themes)
     - [Third-party themes](#third-party-themes)
     - [Built-in themes + Theme tooling](#built-in-themes--theme-tooling)
+  - [Icons](#icons)
   - [Keymaps](#keymaps)
   - [Languages](#languages)
   - [Configs](#configs)
@@ -87,6 +88,11 @@ Fresh also has a **Theme Editor** with schema + UI features (see release notes).
 
 ---
 
+## Icons
+Icons for the Fresh explorer
+- **[Agrejust Icons](https://github.com/Agrejus/fresh-file-icons)** - File-type icons for the Fresh editor's file explorer
+---
+
 ## Keymaps
 Fresh includes a `keymaps/` directory in the main repo.
 Release notes frequently mention keymap improvements (especially around terminal-friendly macOS bindings).
@@ -95,9 +101,10 @@ Release notes frequently mention keymap improvements (especially around terminal
 
 ## Languages
 Language packs and bundles for Fresh Editor.
-
-- _(None widely-established yet — ecosystem is young)_  
-  If you’ve published one, open a PR and we’ll list it.
+- **[VSCode highlighting Package](https://github.com/Agrejus/fresh-vscode-highlighting)** - VS Code Dark+ control keywords, numbers and bracket pair colours for C# and TypeScript in the Fresh editor
+- **[Fresh VHDL](https://github.com/kiyenko/fresh-VHDL)** - Fresh editor language pack for VHDL
+- **[Fresh XDC Language](https://github.com/kiyenko/fresh-XDC)** - Fresh editor language pack for Vivado-XDC
+- **[Fresh Vue Language](https://github.com/unoctanium/fresh-vue-language)** - Basic Vue 3 SFC Language Pack for Fresh Editor ‚Äì syntect-safe syntax highlighting + Volar LSP
 
 > Contribute language packs under `languages/`.
 
