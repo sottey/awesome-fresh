@@ -108,7 +108,7 @@ Fresh ships an example config in the main repo (`config.example.json`).
 
 - **[Example config (in repo)](https://github.com/sinelaw/fresh)**
 - **[Juanesgl Configs for Fresh](https://github.com/juanesgl/fresh-dots)**
-**
+
 
 > If you have a “great default” config (LSP presets, UI layout, sensible keybinding tweaks, etc.), PR it here under a `configs/` folder.
 
@@ -117,7 +117,7 @@ Fresh ships an example config in the main repo (`config.example.json`).
 ## Packaging & Install Options
 Fresh supports multiple install methods (brew, AUR, Debian/Ubuntu packages, rpm, AppImage, Flatpak, npm/npx, cargo-binstall, crates.io, nix).
 
-- **[Arch Linux AUR package page]((https://aur.archlinux.org/packages/fresh-editor)** - Fresh package for Arch Linux
+- **[Arch Linux AUR package page](https://aur.archlinux.org/packages/fresh-editor)**
 - **[Snap Installer](https://github.com/kenvandine/fresh-editor-snap)** - Unoffical Snap packaging for the Fresh editor
 
 ---
