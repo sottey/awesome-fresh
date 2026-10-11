@@ -83,7 +83,7 @@ Fresh also has a **Theme Editor** with schema + UI features (see release notes).
 - **[Bluloco Theme](https://github.com/Nandaleio/bluloco-fresh)** - A collection of Bluloco color scheme themes for Fresh Editor, featuring both dark and light theme.
 - **[Vesper Theme](https://github.com/h1st0ry3D/fresh-vesper-theme)** -  A modern and clean color theme for Fresh (terminal text editor)
 - **[Gruvbox Theme](https://github.com/droidizzz/gruvbox-fresh)** - An adaptation of the popular gruvbox vim theme for fresh editor
-- **[Gaojian Fresh Theme](https://github.com/gaojian80422/fresh-theme) - fresh editor theme  
+- **[Gaojian Fresh Theme](https://github.com/gaojian80422/fresh-theme)** - fresh editor theme  
 
 ---
 
