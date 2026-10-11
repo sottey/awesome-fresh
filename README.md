@@ -49,20 +49,16 @@ Fresh includes a growing set of built-in plugins (and plugin-related features li
 - **[Copilot Plugin](https://github.com/Hezkore/fresh-copilot)** - GitHub Copilot plugin for the Fresh terminal based IDE & text editor.
 - **[UnRAID Plugin](https://github.com/johnngone/fresh-editor-unraid)** - An Unraid plugin that installs Fresh, a modern, full-featured terminal text editor with familiar keybindings, mouse support, and IDE-level features.
 - **[WakaTime plugin](https://github.com/Jelloeater/fresh-plugin-wakatime)** - Automatic time tracking for your coding activity in the Fresh editor.
-- **[Unibeautify for Fresh](https://github.com/hofftodd/fresh-plugins/tree/main/unibeautify)** - Format the active buffer (or just the selection) with the right formatter for each language.
 - **[Fresh Codespell](https://github.com/thedadams/fresh-codespell)** - Code-aware spell checking for the Fresh terminal editor, powered by the CSpell command-line tool.
 - **[Fresh Simple Runner](https://github.com/zongou/fresh-simple-runner)** - Fresh editor simple-runner extension
 - **[Fresh Claude Plugin](https://github.com/mruff-aeq/fresh-claude)** - Claude Code IDE layout for fresh terminal editor. One command, full cockpit
 - **[Fresh Markdown Previewer](https://github.com/sunnypdater/fresh-md-pretty)** - A Fresh terminal editor plugin that renders .md files as a beautiful, color-highlighted preview panel — automatically on open, with live re-render as you type.
-- **[Fresh Plugins](https://github.com/hofftodd/fresh-plugins<img width="432" height="17" alt="image" src="https://github.com/user-attachments/assets/b41d91af-e21a-432d-87da-23820352bdb0" />
-)** - Plugins for the Fresh editor‚ currently a multi-language formatter (Unibeautify)<img width="607" height="17" alt="image" src="https://github.com/user-attachments/assets/9ba03348-89ea-4455-9fc9-8f60d70dc314" />
-
-- **[]()** -
-- **[]()** - 
-- **[]()** - 
-- **[]()** - 
-- **[]()** - 
-- **[]()** - 
+- **[Hofftodd's Plugins](https://github.com/hofftodd/fresh-plugins)** - Plugins for the Fresh editor‚ currently a multi-language formatter (Unibeautify)
+- **[Fresh Explorer Icons](https://github.com/leoscricca/fresh-explorer-icons)** - Add icons to the Fresh editor File Exporer
+- **[Fresh One](https://github.com/librashuai/freshone)** - Fresh Editor plugin: pinned side-by-side LSP references
+- **[Fresh Plugin SOPS](https://github.com/plyul/fresh-plugin-sops)** - SOPS plugin for the Fresh editor: open encrypted files decrypted, save them back encrypted. The plaintext stays in memory.
+- **[Fresh Inline Blame](https://github.com/thedadams/fresh-inline-blame)** - Inline blame text for the Fresh editor
+- **[Fresh Wakatime](https://github.com/thedadams/fresh-wakatime)** - A Wakatime Plugin for the fresh editor
 ---
 
 ## Companion Stuff
@@ -86,7 +82,8 @@ Fresh also has a **Theme Editor** with schema + UI features (see release notes).
 - **[Fresh Rose Theme](https://github.com/Y8ungS8ul/fresh-rose-themes)** - A dark pink theme for the Fresh editor, featuring bright, saturated colors.
 - **[Bluloco Theme](https://github.com/Nandaleio/bluloco-fresh)** - A collection of Bluloco color scheme themes for Fresh Editor, featuring both dark and light theme.
 - **[Vesper Theme](https://github.com/h1st0ry3D/fresh-vesper-theme)** -  A modern and clean color theme for Fresh (terminal text editor)
-  
+- **[Gruvbox Theme](https://github.com/droidizzz/gruvbox-fresh)** - An adaptation of the popular gruvbox vim theme for fresh editor
+- **[Gaojian Fresh Theme](https://github.com/gaojian80422/fresh-theme) - fresh editor theme  
 
 ---
 
